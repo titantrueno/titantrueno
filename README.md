@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 ![Titantrueno's GitHub languajes](https://github-readme-stats.vercel.app/api/top-langs/?username=titantrueno&show_icons=true&theme=radical)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=titantrueno&show_icons=true&theme=radical">
   <img align="center" src="(https://github-readme-stats.vercel.app/api?username=titantrueno&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=titantrueno&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titantrueno&show_icons=true&theme=radical" />
 </a>
